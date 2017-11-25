@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fearless23/api_building/issues"
   },
-  "homepage": "https://github.com/fearless23/api_building#readme"
+  "homepage": "https://github.com/fearless23/api_building#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
